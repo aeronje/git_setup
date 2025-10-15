@@ -1,6 +1,6 @@
 (function () {
   const DOWNLOAD_FILENAME = 'disable_trackpad_keyboard.sh'; // <<<fileName here
-  const RAW_URL = 'https://raw.githubusercontent.com/aeronje/disable-built-in-laptop-mouse-trackpad-and-keyboard-in-ubuntu-linux/main/disable_trackpad_keyboard.sh'; // <<< raw url of GitHub here
+  const RAW_URL = 'https://raw.githubusercontent.com/aeronje/git_setup/main/aeronje_style_git_setup.ps1'; // <<< raw url of GitHub here
 
   // Make sure the script only runs once DOM is ready
   document.addEventListener('DOMContentLoaded', () => {
