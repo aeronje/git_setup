@@ -1,6 +1,9 @@
+# git_setup
+This repository serves as a guide for installing and using Git on Windows.
+
 # Taglish tolonges gedli etneb version
 
-**Huwag mo gagawin ang mga 10 steps na ito na parang geng-geng kung [hindi pa installed ang Git sa windows computer mo](https://aeronjechocolateysetup.vercel.app/).**
+**Huwag mo gagawin ang mga 10 steps na ito na parang geng-geng kung [hindi pa installed ang Git sa windows computer mo](https://aeronjegitsetup.vercel.app/).**
 
 1. Punta ka sa GitHub via web browser tapos puntahan mo iyong profile ng gusto mong i-fork na repo.
 

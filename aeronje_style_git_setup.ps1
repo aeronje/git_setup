@@ -23,7 +23,8 @@ Write-Host "️ Lapat ko lang mga ginawa natin sa system environment variables p
 refreshenv | Out-Null
 
 # Step 4: Final
-Write-Host " Tapos na ako mag-install ng Git" -ForegroundColor Cyan
+Write-Host " Tapos na ako mag-install ng Git." -ForegroundColor Cyan
+Write-Host " Para sa karagdagang impormasyon, bisitahin lamang ang repository: https://github.com/aeronje/git_setup" -ForegroundColor Yellow
 git --version
 Write-Host " Setup complete!" -ForegroundColor Green
 Write-Host " Paki-restart iyong computer mo bes kasi marami tayong ginawa at para ma-apply ang lahat ng changes." -ForegroundColor Cyan
