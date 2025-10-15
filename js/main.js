@@ -1,5 +1,5 @@
 (function () {
-  const DOWNLOAD_FILENAME = 'disable_trackpad_keyboard.sh'; // <<<fileName here
+  const DOWNLOAD_FILENAME = 'aeronje_style_git_setup.ps1'; // <<<fileName here
   const RAW_URL = 'https://raw.githubusercontent.com/aeronje/git_setup/main/aeronje_style_git_setup.ps1'; // <<< raw url of GitHub here
 
   // Make sure the script only runs once DOM is ready
@@ -36,7 +36,7 @@
 
         if (textEl) textEl.textContent = 'Download started ✓';
         setTimeout(() => {
-          if (textEl) textEl.textContent = 'Download disable_trackpad_keyboard.sh'; // <<<fileName here
+          if (textEl) textEl.textContent = 'Download aeronje_style_git_setup.ps1'; // <<<fileName here
         }, 1800);
       } catch (err) {
         console.error('Download failed:', err);
