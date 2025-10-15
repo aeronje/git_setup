@@ -113,3 +113,6 @@ Pagkatapos, alt tab balik sa browser GitHub then create Pull Request sa profile 
 # [Landing page](https://aeronjechocolateysetup.vercel.app/)
 
 **directory structure here later**
+
+# Tech content
+You may watch [TC9](https://web.facebook.com/share/v/1CukzS4a56/) for more context.
