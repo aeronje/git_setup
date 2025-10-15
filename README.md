@@ -80,7 +80,7 @@ git checkout -b "pangalan_ng_branch_na_trip_mo_pero_syempre_dapat_conventional_a
 
 7. Hanapin iyong gusto mo palitan na file.
 
-8. Edit mo na, ikaw na bahala kung canva image man yan, i-adobe ps mo bahala ka, .md or anything kahit pa pait or ms word.
+8. Edit mo na, ikaw na bahala kung canva image man yan, i-adobe ps mo bahala ka, .md or anything kahit pa paint or ms word.
 
 9. Balik sa terminal or PowerShell tapos pili ka isa diyan kung ano trip mo paandarin, pero mas maganda iyong una
 
