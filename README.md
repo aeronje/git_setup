@@ -16,7 +16,7 @@ This repository serves as a guide for installing and using Git on Windows.
 git clone https://github.com/profile_mo/repo_name_na_forked
 ```
 
-5. Move (cd) to the directory where you downloaded the clne repo then run this command
+5. Move (cd) to the directory where you downloaded the clone repo then run this command
 ```
 git checkout -b "branch_name_related_to_repository_or_project"
 ```
@@ -72,7 +72,7 @@ Add a short description of what you changed and why, then submit for review by t
 git clone https://github.com/profile_mo/repo_name_na_forked
 ```
 
-5. Tapos pumunta ka doon sa directory kung saan mo ni-download iyang clne repo (cd) then paandarin mo command na ito
+5. Tapos pumunta ka doon sa directory kung saan mo ni-download iyang clone repo (cd) then paandarin mo command na ito
 ```
 git checkout -b "pangalan_ng_branch_na_trip_mo_pero_syempre_dapat_conventional_at_related_name_sa_rep_or_project"
 ```
