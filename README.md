@@ -53,7 +53,7 @@ git commit -m "comment or message for your commit"
 git push origin "pangalan_ng_branch_na_trip_mo_pero_syempre_dapat_conventional_at_related_name_sa_rep_or_project"
 ```
 
-Once you havve pushed your branch, go back to GitHub in your browser and create a Pull Request from your branch to the original repo.
+Once you have pushed your branch, go back to GitHub in your browser and create a Pull Request from your branch to the original repo.
 
 Add a short description of what you changed and why, then submit for review by the repository maintainer.
 
@@ -76,11 +76,11 @@ git clone https://github.com/profile_mo/repo_name_na_forked
 ```
 git checkout -b "pangalan_ng_branch_na_trip_mo_pero_syempre_dapat_conventional_at_related_name_sa_rep_or_project"
 ```
-6. Kung saanng directory ka nag-execute ng command sa step 4, puntahan mo na ngayon, iwan mo lang nakabukas muna tong terminal mo para alt tab na lang mamaya pag umabot ka sa step 8.
+6. Kung saang directory ka nag-execute ng command sa step 4, puntahan mo na ngayon, iwan mo lang nakabukas muna itong terminal or PowerShell mo para alt tab na lang mamaya pag umabot ka sa step 8.
 
 7. Hanapin iyong gusto mo palitan na file.
 
-8. Edit mo na, kaw na bahala kung canva image man yan,i-adobe ps mo bahala ka, .md or anything.
+8. Edit mo na, ikaw na bahala kung canva image man yan, i-adobe ps mo bahala ka, .md or anything kahit pa pait or ms word.
 
 9. Balik sa terminal or PowerShell tapos pili ka isa diyan kung ano trip mo paandarin, pero mas maganda iyong una
 
@@ -94,9 +94,9 @@ o kaya naman
 git add . 
 ```
 
-(pero be cautious sa git add . ha kasi dito madalas ulyanin ang mga tolonges may napapasama na accidental changes sa file na hindi sinasadya)
+(Pero be cautious sa git add . ha? Kasi dito madalas ulyanin ang mga tolonges, may napapasama na accidental changes sa file na hindi sinasadya)
 
-10. Paandari mo command na ito
+10. Paandarin mo command na ito
 
 ```
 git commit -m "comment or message mo sa iyong comit"
@@ -108,7 +108,7 @@ at saka pati na rin ang command na ito
 git push origin "pangalan_ng_branch_na_trip_mo_pero_syempre_dapat_conventional_at_related_name_sa_rep_or_project"
 ```
 
-Pagkatapos, alt tab balik sa browser GitHub then create Pull Request sa profile original repo creator.
+Pagkatapos, alt tab balik sa browser GitHub then create Pull Request sa profile ng original repo creator.
 
 # [Landing page](https://aeronjechocolateysetup.vercel.app/)
 
