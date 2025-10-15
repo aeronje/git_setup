@@ -1,6 +1,9 @@
+# git_setup
+This repository serves as a guide for installing and using Git on Windows.
+
 # English well-mannered version
 
-**Do not follow these 10 steps carelessly if [Git is not yet installed on your Windows computer](https://aeronjechocolateysetup.vercel.app/).**
+**Do not follow these 10 steps carelessly if [Git is not yet installed on your Windows computer](https://aeronjegitsetup.vercel.app/).**
 
 1. Visit the repository on GitHub that you want to fork using your web browser.
 

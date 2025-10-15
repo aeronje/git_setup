@@ -3,7 +3,7 @@ This repository serves as a guide for installing and using Git on Windows.
 
 # English well-mannered version
 
-**Do not follow these 10 steps carelessly if [Git is not yet installed on your Windows computer](https://aeronjechocolateysetup.vercel.app/).**
+**Do not follow these 10 steps carelessly if [Git is not yet installed on your Windows computer](https://aeronjegitsetup.vercel.app/).**
 
 1. Visit the repository on GitHub that you want to fork using your web browser.
 
@@ -59,7 +59,7 @@ Add a short description of what you changed and why, then submit for review by t
 
 # Taglish tolonges gedli etneb version
 
-**Huwag mo gagawin ang mga 10 steps na ito na parang geng-geng kung [hindi pa installed ang Git sa windows computer mo](https://aeronjechocolateysetup.vercel.app/).**
+**Huwag mo gagawin ang mga 10 steps na ito na parang geng-geng kung [hindi pa installed ang Git sa windows computer mo](https://aeronjegitsetup.vercel.app/).**
 
 1. Punta ka sa GitHub via web browser tapos puntahan mo iyong profile ng gusto mong i-fork na repo.
 
@@ -110,9 +110,20 @@ git push origin "pangalan_ng_branch_na_trip_mo_pero_syempre_dapat_conventional_a
 
 Pagkatapos, alt tab balik sa browser GitHub then create Pull Request sa profile ng original repo creator.
 
-# [Landing page](https://aeronjechocolateysetup.vercel.app/)
-
-**directory structure here later**
+# [Landing page](https://aeronjegitsetup.vercel.app/)
+aeronje
+└──git_setup/
+    ├── README.md
+    ├── aeronje_style_git_setup.ps1
+    ├── git_notes_english.md
+    ├── git_notes_tagalog.md
+    ├── index.html
+    ├── assets/
+    │   └── images/
+    ├── css/
+    │   └── styles.css
+    └── js/
+        └── main.js
 
 # Tech content
-You may watch [TC9](https://web.facebook.com/share/v/1CukzS4a56/) for more context.
+Currently in production, but it will be available on the [digital creator page](https://web.facebook.com/profile.php?id=61579310017234) once filming is complete.
