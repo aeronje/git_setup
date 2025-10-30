@@ -119,12 +119,8 @@ aeronje
     ├── git_notes_english.md
     ├── git_notes_tagalog.md
     ├── index.html
-    ├── assets/
-    │   └── images/
-    ├── css/
-    │   └── styles.css
-    └── js/
-        └── main.js
+    └── assets/
+        └── images/
 ```
 # Tech content
 Currently in production, but it will be available on the [digital creator page](https://web.facebook.com/profile.php?id=61579310017234) once filming is complete.
