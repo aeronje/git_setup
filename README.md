@@ -116,11 +116,48 @@ aeronje
 └──git_setup/
     ├── README.md
     ├── aeronje_style_git_setup.ps1
+    ├── git_setup_delete.sh
     ├── git_notes_english.md
     ├── git_notes_tagalog.md
     ├── index.html
     └── assets/
         └── images/
 ```
+# Deleting Git credentials
+**Linux (English well-mannered version)**
+
+1. Download the git_setup_delete.sh.
+2. Open terminal
+3. Change directory to the path/folder where you save the shell script from step 1.
+4. Run the command
+```
+chmod +x git_setup_delete.sh
+```
+5. Run the command
+```
+./git_setup_delete.sh
+```
+
+**Linux (Taglish tolonges gedli etneb version)**
+
+1. Download mo tong [git_setup_delete.sh](https://raw.githubusercontent.com/aeronje/git_setup/main/git_setup_delete.sh)
+2. Open mo terminal bes kahit hindi naka sudo or root user keri na iyon.
+3. Mag change directory ka, diba kunwari ni-saved mo sa Downloads? Kunwari lang ha. Hindi ako sure kung saan mo ni-saved kasi ikaw nakaka-alam nun.
+Kung sakaling Downloads folder man then nasa baba ang command 
+```
+cd Downloads
+```
+4. Paandarin mo itong command na ito kapag nandoon ka na sa folder kung saan mo ni-save iyong ginawa mo sa step 1
+```
+chmod +x git_setup_delete.sh
+```
+5. Paandarin mo itong command na ito at magbasa ka bes ng mga output sa terminal, basahin mo mabuti
+```
+./git_setup_delete.sh
+```
+**Windows**
+
+Watch this [video](https://web.facebook.com/profile.php?id=61579310017234) because I am tired of typing.
+
 # Tech content
 Currently in production, but it will be available on the [digital creator page](https://web.facebook.com/profile.php?id=61579310017234) once filming is complete.
