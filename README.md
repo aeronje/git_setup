@@ -126,7 +126,7 @@ aeronje
 # Deleting Git credentials
 **Linux (English well-mannered version)**
 
-1. Download the git_setup_delete.sh.
+1. Download the [git_setup_delete.sh](https://aeronjegithubdownloads.vercel.app/api/download?url=https%3A%2F%2Fraw.githubusercontent.com%2Faeronje%2Fgit_setup%2Fmain%2Fgit_setup_delete.sh&filename=git_setup_delete.sh)
 2. Open terminal
 3. Change directory to the path/folder where you save the shell script from step 1.
 4. Run the command
@@ -140,7 +140,7 @@ chmod +x git_setup_delete.sh
 
 **Linux (Taglish tolonges gedli etneb version)**
 
-1. Download mo tong [git_setup_delete.sh](https://raw.githubusercontent.com/aeronje/git_setup/main/git_setup_delete.sh)
+1. Download mo tong [git_setup_delete.sh](https://aeronjegithubdownloads.vercel.app/api/download?url=https%3A%2F%2Fraw.githubusercontent.com%2Faeronje%2Fgit_setup%2Fmain%2Fgit_setup_delete.sh&filename=git_setup_delete.sh)
 2. Open mo terminal bes kahit hindi naka sudo or root user keri na iyon.
 3. Mag change directory ka, diba kunwari ni-saved mo sa Downloads? Kunwari lang ha. Hindi ako sure kung saan mo ni-saved kasi ikaw nakaka-alam nun.
 Kung sakaling Downloads folder man then nasa baba ang command 
