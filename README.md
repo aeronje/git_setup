@@ -155,9 +155,12 @@ chmod +x git_setup_delete.sh
 ```
 ./git_setup_delete.sh
 ```
+
+Screenshare video is only filmed for Windows because Linux command is mostly straightforward.
+
 **Windows**
 
-Watch this [video](https://web.facebook.com/profile.php?id=61579310017234) because I am tired of typing.
+Watch this [video](https://web.facebook.com/share/v/16c7Y4ZpVM/) because I am tired of typing.
 
 # Tech content
 Currently in production, but it will be available on the [digital creator page](https://web.facebook.com/profile.php?id=61579310017234) once filming is complete.
