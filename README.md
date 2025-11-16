@@ -162,5 +162,26 @@ Screenshare video is only filmed for Windows because Linux command is mostly str
 
 Watch this [video](https://web.facebook.com/share/v/16c7Y4ZpVM/) because I am tired of typing.
 
+# Bonus: SSH tips you will eventually need
+
+As you continue leveling up your scripting skills, you will eventually reach the stage where your work moves beyond simple .sh or .ps1 files running locally. Once you start automating deployments, remote tasks, or interacting with servers, SSH naturally becomes your second nature.
+
+That is usually the moment new scripters realize that shell work is not just about loops and variables. It grows into real-world tasks like connecting to remote machines, transferring files, or running automated jobs over the network. And when you get to that phase, you may encounter this familiar warning:
+```
+WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!
+```
+This happens because every machine you connect from keeps a record of the remote server’s host key inside a file called ```known_hosts```. That is how SSH protects you from attackers pretending to be your server.
+
+**Why This Happens**
+
+SSH saves the identity of every server you have connected to. When the current host key does not match the one saved previously, it assumes something suspicious might be happening.
+
+**How to fix it?**
+
+```
+ssh-keygen -R hostname or the IP address.
+```
+Then try again reconnecting.
+
 # Tech content
 Currently in production, but it will be available on the [digital creator page](https://web.facebook.com/profile.php?id=61579310017234) once filming is complete.
