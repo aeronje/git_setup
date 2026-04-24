@@ -183,7 +183,7 @@ ssh-keygen -R hostname or the IP address.
 ```
 Then try again reconnecting.
 
-# Samba + Git Cheat Sheet (Windows → Ubuntu) // April 24th 2026
+# Samba + Git Cheat Sheet (Windows → Ubuntu) // April 24th 2026 4.52 PM US EST
 
 ## One-Time Setup (per PC)
 
