@@ -183,5 +183,46 @@ ssh-keygen -R hostname or the IP address.
 ```
 Then try again reconnecting.
 
+# Samba + Git Cheat Sheet (Windows → Ubuntu)
+
+## One-Time Setup (per PC)
+
+```git config --global core.longpaths true```
+```New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" -Name "LongPathsEnabled" -Value 1 -PropertyType DWORD -Force```
+
+## Map Samba Share
+net use Z: \\192.168.137.99\files     # map
+net use Z: /delete                    # remove
+
+## IP Changed?
+net use Z: /delete
+net use Z: \\<new-ip>\files
+# Check new IP: router admin page o `ip a` sa Ubuntu
+
+## Git Clone
+cd Z:\Downloads
+git clone https://github.com/aeronje/git_setup
+
+## smb.conf (Ubuntu/Debian, one-time)
+# /etc/samba/smb.conf
+
+```
+[files]
+   path = /home/aeronje
+   browseable = yes
+   writable = yes
+   guest ok = yes
+   create mask = 0777
+   directory mask = 0777
+   force user = userName
+```
+# sudo systemctl restart smbd
+
+## Reminders
+# Admin vs Normal PowerShell = different net use mappings.
+# Long path fix = permanent, once only.
+# IP change = Delete → re-map only.
+# force user = This is necessary if Windows will be writing to Samba shared (ubuntu/debian)
+
 # Tech content
 Currently in production, but it will be available on the [digital creator page](https://web.facebook.com/profile.php?id=61579310017234) once filming is complete.
